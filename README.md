@@ -1,36 +1,30 @@
-# greasepencil_to_mesh
-Convert Grease Pencil to 3D mesh with advanced thickness and color control
+#GP to Mesh
+A Blender addon that converts Grease Pencil objects into 3D meshes with advanced thickness and color control.
+Features
 
-# GP to Mesh
+#Convert Grease Pencil objects into 3D meshes
+Maintain original thickness or customize it
+Preserve original colors or set custom ones
+Control subdivision levels and smooth shading
+Accurate thickness mode (experimental feature)
 
-Un addon per Blender che converte oggetti Grease Pencil in mesh 3D con controllo avanzato dello spessore e del colore.
+#Installation
 
-## Caratteristiche
+Download the addon
+In Blender, go to Edit > Preferences > Extensions
+Click "Install..." and select the addon zip file
+Activate the addon by clicking the checkbox
 
-- Conversione di oggetti Grease Pencil in mesh 3D
-- Mantenimento dello spessore originale o personalizzazione
-- Mantenimento del colore originale o personalizzazione
-- Controllo della suddivisione e dell'ombreggiatura smooth
-- Modalità di spessore accurato (funzionalità sperimentale)
+#Usage
 
-## Installazione
+Select a Grease Pencil object
+Go to the sidebar panel in 3D View > GP to Mesh
+Configure your desired options
+Click "Execute Conversion"
 
-1. Scarica l'addon
-2. In Blender, vai su Edit > Preferences > Extensions
-3. Clicca su "Install..." e seleziona il file zip dell'addon
-4. Attiva l'addon cliccando sulla casella di controllo
+#Requirements
 
-## Utilizzo
+Blender 4.0.0 or higher
 
-1. Seleziona un oggetto Grease Pencil
-2. Vai nel pannello laterale in 3D View > GP to Mesh
-3. Configura le opzioni desiderate
-4. Clicca su "Execute Conversion"
-
-## Requisiti
-
-- Blender 4.0.0 o superiore
-
-## Licenza
-
+#License
 GPL-3.0-or-later
