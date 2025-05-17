@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "ebartali.gp_to_mesh"
+version = "1.0.0"
+name = "GP to Mesh"
+tagline = "Convert Grease Pencil to 3D mesh with advanced thickness and color control"
+maintainer = "Eduardo - netkingZ - Bartali"
+license = ["GPL-3.0-or-later"]
+blender_version_min = "4.0.0"
+media = ["screenshots/screenshot1.jpg", "screenshots/screenshot2.jpg"]
+
+[repository]
+url = "https://github.com/netkingZ/greasepencil_to_mesh"
+type = "git"
